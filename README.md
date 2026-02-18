@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bienvenido!!
 
-<!--
-**SantiValencia20/SantiValencia20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me llamo Santiago Valencia Londoño, Estudiante de quinto semestre en la Universidad De Manizales, con habilidades en el desarrolo Back-End y Front-End.
 
-Here are some ideas to get you started:
+## Habilidades y Rasgos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Agil 
+-Comunicativo
+-Liderazgo
+-Buena convivencia
+-Me esfuerzo por hacer las cosas bien 
+-Eficiencia
+-cumplo mis objetivos
+
+## 
