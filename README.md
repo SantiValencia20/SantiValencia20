@@ -1,15 +1,71 @@
-## Bienvenido!!
+<h1 align="center">👋 Hola, soy Santiago Valencia</h1>
 
-Me llamo Santiago Valencia Londoño, Estudiante de quinto semestre en la Universidad De Manizales, con habilidades en el desarrolo Back-End y Front-End.
+<p align="center">
+- Estudiante de Ingeniería de Sistemas <br>
+- Universidad de Manizales <br>
+- Apasionado por el desarrollo Back-End y Front-End
+</p>
 
-## Habilidades y Rasgos
+---
 
--Agil 
--Comunicativo
--Liderazgo
--Buena convivencia
--Me esfuerzo por hacer las cosas bien 
--Eficiencia
--cumplo mis objetivos
+## 👨‍💻 Sobre mí
 
-## 
+-  Estudiante de **quinto semestre**
+-  Interesado en **desarrollo web**
+-  Actualmente aprendiendo **más sobre programación y desarrollo**
+-  Mi objetivo es convertirme en un **desarrollador profesional**
+
+---
+
+## 🚀 Tecnologías y herramientas
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode,tailwind,astro,discord" />
+</p>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SantiValencia20&show_icons=true&theme=tokyonight">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiValencia20&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+## 📂 Proyectos
+
+🔹 Aquí estaré subiendo mis proyectos de programación:
+
+-  Ejercicios de **HTML** https://github.com/SantiValencia20/TareasHTML
+-  Prácticas de **programación** 
+-  Proyectos de **universidad** 
+- Proyectos personales https://github.com/SantiValencia20/README
+
+---
+
+## 🧠 Habilidades
+
+✔ Trabajo en equipo  
+✔ Comunicación  
+✔ Liderazgo  
+✔ Resolución de problemas  
+✔ Enfoque en objetivos  
+
+---
+
+## 📫 Contacto
+
+💼 GitHub:  
+https://github.com/SantiValencia20
+
+📧 Email:  
+ Santiagovalencia2006@gmail.com
+
+---
+
+⭐ Gracias por visitar mi perfil :)
