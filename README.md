@@ -44,8 +44,9 @@
 -  Ejercicios de **HTML** https://github.com/SantiValencia20/TareasHTML
 -  Prácticas de **programación** 
 -  Proyectos de **universidad** 
-- Proyectos personales https://github.com/SantiValencia20/README
-
+- Proyectos personales como :
+- Portafolio: https://github.com/SantiValencia20/README 
+- BotiPrueba: https://github.com/SantiValencia20/BotiPrueba/tree/master
 ---
 
 ## 🧠 Habilidades
